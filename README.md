@@ -20,3 +20,11 @@ The flow of this program, based on the requriments, is as follows:
 To summarize, this program reads an writes strings to the console however,
 it stores and manupulates the actual numerical value.
 ------------------------------------------------------------------------
+
+## Setup
+
+### [Download Visual Studio](https://visualstudio.microsoft.com/)
+
+### Get [irvine32 library](http://asmirvine.com/gettingStartedVS2017/index.htm#tutorial32) and follow setup
+
+### open project file in visual studio IDE
