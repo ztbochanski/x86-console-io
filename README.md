@@ -1,4 +1,4 @@
-# assembly-practice-masm
+# x86 Assembly using Microsoft Macro Assembler (MASM)
 
 ------------------------------------------------------------------------
 Author: Zachary Bochanski
